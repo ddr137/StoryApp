@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yankees_blue">#1f2b38</color>
+    <color name="cultured">#f4f4f5</color>
+    <color name="dark_electric_blue">#496584</color>
+</resources>

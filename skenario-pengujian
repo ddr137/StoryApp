@@ -1,0 +1,39 @@
+1. MainViewModeltest
+ a. Ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan jumlah data sesuai dengan yang diharapkan.
+ b. Get Token Berhasil
+ c. Save Token berhasil
+ 
+2. LoginViewModeltest
+ a. Login berhasil
+ b. Get Token Berhasil
+ c. Save Token berhasil
+ 
+3. RegisterViewModeltest
+ a. Register berhasil
+ 
+4. MainViewModeltest
+ a. Memastikan data tidak null
+
+5. NewStoryViewModelTest
+ a. memastikan respon berhasil sukses
+ 
+6. LoginRepositoryTest
+ a. Login berhasil
+ b. Get Token Berhasil
+ c. Save Token berhasil
+ 
+7. RegisterRepositoryTest
+ a. Register berhasil
+ 
+8. MainRepositoryTest
+ a. Ketika berhasil memuat data
+    - Memastikan data tidak null.
+    - Memastikan jumlah data sesuai dengan yang diharapkan.
+ b. Get Token Berhasil
+ c. Save Token berhasil
+ 
+9. NewStoryRepositoryTest
+ a. memastikan respon berhasil sukses
+ 

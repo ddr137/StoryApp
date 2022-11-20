@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_password">Input your password</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    <string name="password_can_not_be_empty">Password can not be empty</string>
+    <string name="input_email">Input your email</string>
+    <string name="input_email_error">Invalid Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="button_text_ok">OK</string>
+    <string name="fill_in_all_fields">Fill in all fields</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="header_desc_register">"Create an account to get access to all features "</string>
+    <string name="sign_in">Sign In</string>
+    <string name="image_story">image story</string>
+    <string name="header_desc_login">Login to get access to all features</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="new_story">New Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="add_new_story">Add New Story</string>
+    <string name="not_getting_permission">Not getting permission.</string>
+    <string name="please_enter_image_file">Please enter the image file first.</string>
+    <string name="retry">Retry</string>
+    <string name="stories_based_on_location">Stories based on location</string>
+    <string name="user_created">User Created</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login failed, please try again</string>
+    <string name="story_created">Story Created</string>
+    <string name="story_failed">Created story failed, please try again</string>
+</resources>

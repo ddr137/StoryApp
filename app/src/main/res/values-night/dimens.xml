@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_register">28sp</dimen>
+    <dimen name="margin_low">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_high">32dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="margin_text_to_text">4dp</dimen>
+    <dimen name="radius">16dp</dimen>
+    <dimen name="name_story">20sp</dimen>
+    <dimen name="date_story">12sp</dimen>
+    <dimen name="width_button_new_story">180dp</dimen>
+    <dimen name="height_edit_text_new_story">150dp</dimen>
+</resources>
